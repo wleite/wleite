@@ -33,7 +33,7 @@ I architect, build, and scale **cloud-native solutions**, **AI-powered pipelines
 🔧 **Optimizing cloud architectures** for high-throughput, low-latency systems  
 📡 **Building real-time data streaming platforms** with **Apache Kafka & Pub/Sub**  
 🛠️ **Enhancing MLOps & AI deployment strategies**  
-📘 **Writing about tech & sharing insights** on my [blog](https://medium.com/@willianleite/)  
+📘 **Writing about tech & sharing insights** on my [github blog](https://wleite.com) [medium blog](https://medium.com/@willianleite/)  
 
 ---
 
